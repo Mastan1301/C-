@@ -1,0 +1,17 @@
+C:\Users\shaik\C#\Projects\PictureViewer\bin\Debug\net6.0-windows\PictureViewer.exe
+C:\Users\shaik\C#\Projects\PictureViewer\bin\Debug\net6.0-windows\PictureViewer.deps.json
+C:\Users\shaik\C#\Projects\PictureViewer\bin\Debug\net6.0-windows\PictureViewer.runtimeconfig.json
+C:\Users\shaik\C#\Projects\PictureViewer\bin\Debug\net6.0-windows\PictureViewer.dll
+C:\Users\shaik\C#\Projects\PictureViewer\bin\Debug\net6.0-windows\ref\PictureViewer.dll
+C:\Users\shaik\C#\Projects\PictureViewer\bin\Debug\net6.0-windows\PictureViewer.pdb
+C:\Users\shaik\C#\Projects\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.csproj.AssemblyReference.cache
+C:\Users\shaik\C#\Projects\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.Form1.resources
+C:\Users\shaik\C#\Projects\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.csproj.GenerateResource.cache
+C:\Users\shaik\C#\Projects\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaik\C#\Projects\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.AssemblyInfoInputs.cache
+C:\Users\shaik\C#\Projects\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.AssemblyInfo.cs
+C:\Users\shaik\C#\Projects\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\shaik\C#\Projects\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.dll
+C:\Users\shaik\C#\Projects\PictureViewer\obj\Debug\net6.0-windows\ref\PictureViewer.dll
+C:\Users\shaik\C#\Projects\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.pdb
+C:\Users\shaik\C#\Projects\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.genruntimeconfig.cache

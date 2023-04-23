@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4312dffa-47d3-4406-aa69-f54fcfe42fbe": {
+      "ProjectGuid": "4312dffa-47d3-4406-aa69-f54fcfe42fbe",
+      "DisplayName": "HelloWPFApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
